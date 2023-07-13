@@ -1,0 +1,12 @@
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\bin\Debug\DENEME.txt
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\bin\Debug\TestFormApp.exe.config
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\bin\Debug\TestFormApp.exe
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\bin\Debug\TestFormApp.pdb
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\obj\Debug\TestFormApp.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\obj\Debug\TestFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\obj\Debug\TestFormApp.Form1.resources
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\obj\Debug\TestFormApp.Properties.Resources.resources
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\obj\Debug\TestFormApp.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\obj\Debug\TestFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\obj\Debug\TestFormApp.exe
+C:\Users\Omer\source\repos\MultiThread\TestFormApp\obj\Debug\TestFormApp.pdb
